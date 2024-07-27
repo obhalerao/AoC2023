@@ -1,0 +1,10 @@
+day 20:
+low pulse to rx: kz sends it
+therefore kz must remember high pulses for all its inputs
+qq, sj, ls, bg are all inputs
+
+1 {'jj': 0, 'sx': 0, 'fn': 0, 'lr': 0, 'xn': 0, 'zr': 0, 'xr': 1, 'rd': 0} correct
+1 {'jj': 0, 'sx': 0, 'fn': 0, 'lr': 0, 'xn': 0, 'zr': 0, 'xr': 1, 'rd': 0} mine
+
+539 {'jj': 1, 'sx': 1, 'fn': 0, 'lr': 1, 'xn': 1, 'zr': 0, 'xr': 1, 'rd': 0} correct
+539 {'jj': 1, 'sx': 1, 'fn': 0, 'lr': 1, 'xn': 1, 'zr': 0, 'xr': 1, 'rd': 0} mine
